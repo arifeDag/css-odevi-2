@@ -1,0 +1,29 @@
+#image {
+  text-align: center;
+}
+#search-area {
+  text-align: center;
+  margin: 0 auto;
+  width: 85%;
+  background-color: grey;
+}
+
+.nitelik {
+  text-align: center;
+  background-color: aquamarine;
+
+  margin-left: 1px;
+}
+
+.box {
+  text-align: center;
+  width: 400px;
+  height: 80px;
+  display: table-cell;
+  margin-right: 0.25%;
+  /* float: left; */
+}
+
+.Footer {
+  text-align: center;
+}

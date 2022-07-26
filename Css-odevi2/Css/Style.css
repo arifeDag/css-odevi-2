@@ -1,0 +1,55 @@
+.center {
+  text-align: center;
+  margin: 0 auto;
+  display: block;
+}
+
+.content {
+  text-align: center;
+}
+.search {
+  text-align: center;
+  size: 40;
+  background-color: rgb(237, 235, 235)
+}
+.other {
+    text-align: center;
+  background-color: #3ce9e9;
+  height: 94;
+  width: 570;
+  
+}
+.digeri {
+  background-color: #12c5ce;
+  height: 94;
+  width: 570;
+}
+
+.box {
+  background-color: #29bcc9;
+  height: 94;
+  width: 570;
+}
+
+.footer {
+  text-align: center;
+  font-size: 15px;
+}
+
+tr {
+  text-align: center;
+}
+
+table{
+  margin-left: 50px;
+  margin-right: 100px;
+  width: 90%;
+}
+
+
+table, tr, td, tbody, thead{
+    border-spacing: 0px;
+    padding: 0px;
+    margin: 0px;
+   
+}
